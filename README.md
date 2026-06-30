@@ -22,3 +22,10 @@
 * **Vertical Leadership**: Technology-driven platforms within the **Consumer Internet** and **E-Commerce** sectors consistently capture the largest volume of transaction entries.
 * **Scale Disparity**: While high-value late-stage mega rounds represent less than **6%** of overall deal frequency, they successfully control over **55%** of the cumulative distributed capital.
 
+## 5. Interactive Layout Dashboards
+### Page 1: Ecosystem Executive Overview
+![Page 1 Dashboard](page1.png)
+
+### Page 2: Sector & Scale Analysis
+![Page 2 Dashboard](page2.png)
+
