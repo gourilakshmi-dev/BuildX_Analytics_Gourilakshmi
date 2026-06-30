@@ -5,9 +5,12 @@
 * **Rationale**: This comprehensive 10-column framework contains rich categorical text metrics alongside high-density numerical properties. It presents excellent structural layout challenges, such as handling empty data points and cleaning up complex currency formats.
 
 ## 2. Business Questions Answered
-1. Which geographical metropolitan centers host the densest cluster of high-value venture deals?
-2. What are the key performance metrics and transaction velocities when mapping market capital size per industry vertical?
-3. How is venture capital distributed across our engineered funding tiers when separating early seed structures from mature late-stage rounds?
+1. **Which geographical metropolitan centers host the densest cluster of high-value venture deals?**
+   * **Answer**: **Bengaluru (Banglore)** dominates as the primary funding hub, capturing over $15B+ of total capital, followed closely by **Mumbai**
+2. **What are the key performance metrics and transaction velocities when mapping market capital size per industry vertical?**
+   * **Answer**: The **Consumer Internet** and **E-Commerce** sectors achieve the highest transaction velocity, capturing the largest volume of individual deals and total funding value.
+3. **How is venture capital distributed across our engineered funding tiers when separating early seed structures from mature late-stage rounds?**
+   * **Answer**: There is a heavy scale disparity: **Late Stage Mega Rounds** make up less than **6%** of overall deal count, but command over **55%** of all distributed market capital.
 
 ## 3. Technology Infrastructure Stack Used
 * **Data Processing & Prep**: Python 3 (Pandas library framework inside Google Colab)
